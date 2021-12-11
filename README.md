@@ -14,6 +14,7 @@
   - Pendahuluan (Latar Belakang Sistem, Tujuan, dan Batasan Masalah)
   - Arsitektur Sistem
   - Kebutuhan Hardware
+  - Pengujian & Turnover (Pertanyaan/tanggapan yang diajukan beserta perbaikan sistem)
 
 5200411237 Rahmita Yida Prihasty
   - Sequence Diagram
